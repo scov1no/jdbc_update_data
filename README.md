@@ -1,4 +1,4 @@
-# JDBC - Enter Data
+# JDBC - Update Data
 
 
 🎓 Course: [Udemy](https://www.udemy.com/course/java-curso-completo/)
